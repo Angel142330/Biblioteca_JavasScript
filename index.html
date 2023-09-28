@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <title>Objetos</title>
+    
+</head>
+
+<body>
+    <h1>Biblioteca de Libros</h1>
+
+    <div class="container">
+        <div class="verLibros">
+            <!-- pintarTabla -->
+        </div>
+
+        <!-- Formulario para agregar libros -->
+        <form id="agregarLibroForm">
+            <label for="titulo">Título:</label>
+            <input type="text" id="titulo" name="titulo" required autocomplete="off"><br>
+
+            <label for="autor">Autor:</label>
+            <input type="text" id="autor" name="autor" required autocomplete="off"><br>
+
+            <label for="anio">Año:</label>
+            <input type="number" id="anio" name="anio" required autocomplete="off"><br>
+
+            <label for="genero">Género:</label>
+            <input type="text" id="genero" name="genero" required autocomplete="off"><br>
+
+            <button type="submit">Agregar Libro</button>
+        </form>
+
+        <button id="agregar" class="toggle-form">Agregar Nuevo Libro</button>
+    </div>
+   <script src="script.js"></script>
+   
+   
+</body>
+
+</html>
