@@ -1,2 +1,3 @@
 # Biblioteca_JavasScript
-<span>![</span><span>Biblioteca</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png</span><span>)</span>
+
+<img src="https://www.comunidadbaratz.com/wp-content/uploads/La-biblioteca-es-inclusion-social-e-igualdad-de-oportunidades.jpg" alt="Bibloteca" width="30px">
